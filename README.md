@@ -146,6 +146,18 @@ Full method list + TypeScript response types: [main SDK README →](https://gith
 
 One credit per successful call. Failed calls (4xx caused by bad input) don't consume credits.
 
+## Free live follower badge
+
+Show a public Instagram account's follower count on your website or README, updated about once a day. No API key, no account.
+
+[![NASA Instagram followers](https://socialapis.io/badge/instagram/nasa.svg)](https://socialapis.io/tools/instagram-follower-count?utm_source=github&utm_medium=readme&utm_campaign=badges)
+
+```markdown
+[![Instagram followers](https://socialapis.io/badge/instagram/<username>.svg)](https://socialapis.io/tools/instagram-follower-count)
+```
+
+Options: `?theme=dark`, `?style=flat`, `?label=Your%20text`. Get the HTML, Markdown or forum code for any account on the [Instagram follower count checker](https://socialapis.io/tools/instagram-follower-count?utm_source=github&utm_medium=readme&utm_campaign=badges).
+
 ## Other resources
 
 - **Full SDK source + docs**: [SocialAPIsHub/socialapis-js](https://github.com/SocialAPIsHub/socialapis-js)
